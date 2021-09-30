@@ -11,6 +11,7 @@ SMILE: str = '\U0001F604'
 SAD: str = '\U0001F614'
 FROWN: str = '\U0001F615'
 
+
 def main() -> None:
     """The program's entrypoint."""
     greet()
